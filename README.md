@@ -8,6 +8,6 @@ Adds a docker which places various layer functions together
 ## Theme
 
 ### CSP inspired icons
-(very very wip and requires manual path adjustment for now. I migght make a batch file or something)
+(very very wip and requires manual path adjustment for now. I might make a batch file or something once I actually make more than 5 icons.)
 
 <img width="110" height="38" alt="image" src="https://github.com/user-attachments/assets/9ef0bc5c-e83f-4a1a-b3e8-e8c7135d0d51" />
