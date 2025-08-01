@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=layerutil_csp
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=layerUtil_CSP
+Comment=A docker with quick access to common layer operations.
